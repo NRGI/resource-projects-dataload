@@ -1,5 +1,3 @@
-# resource-projects-dataload
-A tracker for data to load into ResourceProjects.org  http://resourceprojects.org/
 [![Stories in Ready](https://badge.waffle.io/NRGI/resource-projects-dataload.png?label=ready&title=Ready)](https://waffle.io/NRGI/resource-projects-dataload)
 # Hello there!
 
