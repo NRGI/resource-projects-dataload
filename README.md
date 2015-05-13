@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/NRGI/resource-projects-dataload.png?label=ready&title=Ready)](https://waffle.io/NRGI/resource-projects-dataload)
 # Hello there!
 
-**What is this?** This is the **community tracker** for work to **load data** into [ResourceProjects][http://resourceprojects.org/]
+**What is this?** This is the **community tracker** for work to **load data** into [ResourceProjects](http://resourceprojects.org/)
 (including tracking down, scraping, cleaning that data!). You can use it to:
 
 - Register a data set for someone (maybe you!) to work on in the future
